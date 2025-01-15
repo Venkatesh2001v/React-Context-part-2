@@ -1,6 +1,6 @@
-import {Component} from 'react'
+import {Component} from 'react';
 
-import LanguageContext from './context/LanguageContext'
+import LanguageContext from './context/LanguageContext';
 
 import Header from './components/Header'
 import LandingSection from './components/LandingSection'
