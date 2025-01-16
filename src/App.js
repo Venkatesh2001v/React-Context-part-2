@@ -3,8 +3,8 @@ import {Component} from 'react';
 import LanguageContext from './context/LanguageContext';
 
 import Header from './components/Header'
-import LandingSection from './components/LandingSection'
-import FeaturesSection from './components/FeaturesSection'
+import LandingSection from './components/LandingSection';
+import FeaturesSection from './components/FeaturesSection';
 
 class App extends Component {
   state = {activeLanguage: 'EN'}
@@ -27,4 +27,4 @@ class App extends Component {
   }
 }
 
-export default App
+export default App;
